@@ -4,7 +4,7 @@ I hereby claim:
 
   * I am nweeg on github.
   * I am nweeg (https://keybase.io/nweeg) on keybase.
-  * I have a public key ASBHI4zZB7tBzmloasW5ELOi-zq-vMv0nC6WJlg5nFIcMAo
+  * I have a public key ASCkEHUsZFIOdOVOEX1sAYSQV1ye5B6oCvJQg_jSiIefBAo
 
 To claim this, I am signing this object:
 
@@ -12,41 +12,42 @@ To claim this, I am signing this object:
 {
   "body": {
     "key": {
-      "eldest_kid": "012047238cd907bb41ce69686ac5b910b3a2fb3abebccbf49c2e962658399c521c300a",
+      "eldest_kid": "0120603d40bfaa64c8591771881a99b26542bfa318421309bf343147410c2c18b91f0a",
       "host": "keybase.io",
-      "kid": "012047238cd907bb41ce69686ac5b910b3a2fb3abebccbf49c2e962658399c521c300a",
+      "kid": "0120a410752c64520e74e54e117d6c018490575c9ee41ea80af25083f8d288879f040a",
       "uid": "89b8e6d490922fcab77c6364861ffb19",
       "username": "nweeg"
     },
     "merkle_root": {
-      "ctime": 1521473001,
-      "hash": "93abbad46e1753bb2df0e7ee415a1b94bc5f89ebb687c4d49031703d5b7f5c28924536fb35c4117e5b50b1bbc87e57089cc52e8b7c5db55dc9789a7cd938ff48",
-      "hash_meta": "2920d9043925e6b97c262d24e8a5d21dd1fa521ef8117572f2169b40ea84b764",
-      "seqno": 2256253
+      "ctime": 1568399975,
+      "hash": "e5c6b503f769b05901c307edc13a369458c26e9d4400a5a55940e6ee1184c1d6509de24128b4980df6baa23f149c71aa83329a894c23b4c8fbbe955e96b2f889",
+      "hash_meta": "689c429a886b928ebfa255d1d111f854251bb239efa439d8a5d95ebb7552c2ca",
+      "seqno": 7196825
     },
     "service": {
+      "entropy": "bIaFzSC+5IUtG7xeRNtiY0mT",
       "name": "github",
       "username": "nweeg"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "1.0.45"
+    "version": "4.4.2"
   },
-  "ctime": 1521473050,
+  "ctime": 1568399981,
   "expire_in": 504576000,
-  "prev": "6625f4d31583df21ca4abc8212f32a5354ce01865e085bc154a407229dd6a372",
-  "seqno": 5,
+  "prev": "9cc51c2f283651d349b34d5d3289d9981d38704e989d7487c54bdaf9ae86663f",
+  "seqno": 19,
   "tag": "signature"
 }
 ```
 
-with the key [ASBHI4zZB7tBzmloasW5ELOi-zq-vMv0nC6WJlg5nFIcMAo](https://keybase.io/nweeg), yielding the signature:
+with the key [ASCkEHUsZFIOdOVOEX1sAYSQV1ye5B6oCvJQg_jSiIefBAo](https://keybase.io/nweeg), yielding the signature:
 
 ```
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRyOM2Qe7Qc5paGrFuRCzovs6vrzL9JwuliZYOZxSHDAKp3BheWxvYWTFAzZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNDcyMzhjZDkwN2JiNDFjZTY5Njg2YWM1YjkxMGIzYTJmYjNhYmViY2NiZjQ5YzJlOTYyNjU4Mzk5YzUyMWMzMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDcyMzhjZDkwN2JiNDFjZTY5Njg2YWM1YjkxMGIzYTJmYjNhYmViY2NiZjQ5YzJlOTYyNjU4Mzk5YzUyMWMzMDBhIiwidWlkIjoiODliOGU2ZDQ5MDkyMmZjYWI3N2M2MzY0ODYxZmZiMTkiLCJ1c2VybmFtZSI6Im53ZWVnIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIxNDczMDAxLCJoYXNoIjoiOTNhYmJhZDQ2ZTE3NTNiYjJkZjBlN2VlNDE1YTFiOTRiYzVmODllYmI2ODdjNGQ0OTAzMTcwM2Q1YjdmNWMyODkyNDUzNmZiMzVjNDExN2U1YjUwYjFiYmM4N2U1NzA4OWNjNTJlOGI3YzVkYjU1ZGM5Nzg5YTdjZDkzOGZmNDgiLCJoYXNoX21ldGEiOiIyOTIwZDkwNDM5MjVlNmI5N2MyNjJkMjRlOGE1ZDIxZGQxZmE1MjFlZjgxMTc1NzJmMjE2OWI0MGVhODRiNzY0Iiwic2Vxbm8iOjIyNTYyNTN9LCJzZXJ2aWNlIjp7Im5hbWUiOiJnaXRodWIiLCJ1c2VybmFtZSI6Im53ZWVnIn0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQ1In0sImN0aW1lIjoxNTIxNDczMDUwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjY2MjVmNGQzMTU4M2RmMjFjYTRhYmM4MjEyZjMyYTUzNTRjZTAxODY1ZTA4NWJjMTU0YTQwNzIyOWRkNmEzNzIiLCJzZXFubyI6NSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAAn0Z7r6sox4BYKClW0dkkAtPXojGIe5TqGsrhVimVY2p6YhILFf9xn28sZorvGX+bVqTmtN9q1qVc8nV2VE0KqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgNGc8N3LxVqS6gHAkmWmArGm1bhc+SFKPjH2ztAhuopGjdGFnzQICp3ZlcnNpb24B
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgpBB1LGRSDnTlThF9bAGEkFdcnuQeqAryUIP40oiHnwQKp3BheWxvYWTESpcCE8QgnMUcLyg2UdNJs01dMonZmB04cE6YnXSHxUva+a6GZj/EIEnxseqFLjJW/clLGTDGwX3zVtOxIGQw3HidgnYsHoaNAgHCo3NpZ8RAdFWSF9HyBwKi2YtDZEWcw0bxleUOlninvwiVyuOgpUmJCWbQJi0FboyeDyJguMKZZJG5dwfqYxKtkCA2dNtRDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJzND9hzqcHIYjLoHBFOCuKZYwxvlA5DQzLZc/X+dIJpo3RhZ80CAqd2ZXJzaW9uAQ==
 
 ```
 
